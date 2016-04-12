@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://jeffheck.github.io/</loc>
+    <lastmod>2016-04-08T19:48:49-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jeffheck.github.io/bellevue/demographics/</loc>
+    <lastmod>2016-04-08T19:48:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jeffheck.github.io/bellevue/sat_math/</loc>
+    <lastmod>2016-04-08T19:48:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jeffheck.github.io/everett/demographics/</loc>
+    <lastmod>2016-04-08T19:48:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jeffheck.github.io/everett/non_resident_students_into_district/</loc>
+    <lastmod>2016-04-08T19:48:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jeffheck.github.io/everett/sat_math/</loc>
+    <lastmod>2016-04-08T19:48:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jeffheck.github.io/bellevue/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jeffheck.github.io/everett/</loc>
+  </url>
+  
+</urlset>

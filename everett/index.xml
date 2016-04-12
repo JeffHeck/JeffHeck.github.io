@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Everetts on Hugo in 2 minutes</title>
+    <link>http://JeffHeck.github.io/everett/</link>
+    <description>Recent content in Everetts on Hugo in 2 minutes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Apr 2016 19:48:49 -0700</lastBuildDate>
+    <atom:link href="http://JeffHeck.github.io/everett/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Everett Demographics</title>
+      <link>http://jeffheck.github.io/everett/demographics/</link>
+      <pubDate>Fri, 08 Apr 2016 19:48:49 -0700</pubDate>
+      
+      <guid>http://jeffheck.github.io/everett/demographics/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://JeffHeck.github.io/images/everett/Everett School District Demographics History With Gender.png&#34; alt=&#34;GitHub Logo&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Everett Non Resident Students Into District</title>
+      <link>http://jeffheck.github.io/everett/non_resident_students_into_district/</link>
+      <pubDate>Fri, 08 Apr 2016 19:48:49 -0700</pubDate>
+      
+      <guid>http://jeffheck.github.io/everett/non_resident_students_into_district/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://JeffHeck.github.io/images/everett/NonresidentStudentsIntoEverett2014-2015.png&#34; alt=&#34;GitHub Logo&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Everett SAT Math</title>
+      <link>http://jeffheck.github.io/everett/sat_math/</link>
+      <pubDate>Fri, 08 Apr 2016 19:48:49 -0700</pubDate>
+      
+      <guid>http://jeffheck.github.io/everett/sat_math/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://JeffHeck.github.io/images/everett/PSAT-SAT Results Everett School District SAT Math 2014-2015.png&#34; alt=&#34;GitHub Logo&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Everett Index</title>
+      <link>http://jeffheck.github.io/everett/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jeffheck.github.io/everett/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;demographics&#34;&gt;Demographics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;sat_math&#34;&gt;SAT Math&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;non_resident_students_into_district&#34;&gt;Varianced Students&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
